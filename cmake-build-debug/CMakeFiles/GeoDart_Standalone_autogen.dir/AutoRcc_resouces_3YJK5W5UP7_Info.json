@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug/GeoDart_Standalone_autogen",
+	"CMAKE_BINARY_DIR" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/eugene/Projects/geodart_standalone",
+	"CMAKE_SOURCE_DIR" : "/home/eugene/Projects/geodart_standalone",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug/GeoDart_Standalone_autogen/include",
+	"INPUTS" : [ "/home/eugene/Projects/geodart_standalone/resources/DartLogo-4.png" ],
+	"LOCK_FILE" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/GeoDart_Standalone_autogen.dir/AutoRcc_resouces_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resouces" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_resouces.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/GeoDart_Standalone_autogen.dir/AutoRcc_resouces_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/home/eugene/Projects/geodart_standalone/resources/resouces.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

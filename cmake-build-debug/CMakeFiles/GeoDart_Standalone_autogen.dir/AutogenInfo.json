@@ -1,0 +1,366 @@
+{
+	"BUILD_DIR" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug/GeoDart_Standalone_autogen",
+	"CMAKE_BINARY_DIR" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/eugene/Projects/geodart_standalone",
+	"CMAKE_EXECUTABLE" : "/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/eugene/Projects/geodart_standalone/CMakeLists.txt",
+		"/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/3.29.6/CMakeSystem.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-Initialize.cmake",
+		"/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/3.29.6/CMakeCCompiler.cmake",
+		"/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/3.29.6/CMakeCXXCompiler.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeSystemSpecificInformation.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeGenericSystem.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeInitializeConfigs.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/UnixPaths.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCInformation.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/GNU-C.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-GNU-C.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-GNU.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCXXInformation.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeLanguageInformation.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/GNU-CXX.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Compiler/GNU.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/Platform/Linux-GNU.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5Config.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeParseArguments.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Charts/Qt5ChartsConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Charts/Qt5ChartsConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeParseArguments.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5SerialPort/Qt5SerialPortConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5SerialPort/Qt5SerialPortConfig.cmake",
+		"/home/eugene/Projects/geodart_standalone/resources/resouces.qrc"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/eugene/Projects/geodart_standalone",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug/GeoDart_Standalone_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "GeoDart_Standalone_autogen/timestamp",
+	"HEADERS" : 
+	[
+		[
+			"/home/eugene/Projects/geodart_standalone/src/Dependency.h",
+			"MU",
+			"UVLADIE3JM/moc_Dependency.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Chart/GDBatteryChargeForm.h",
+			"MU",
+			"XPMO2MVAI4/moc_GDBatteryChargeForm.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Chart/GDSignalStrengthForm.h",
+			"MU",
+			"XPMO2MVAI4/moc_GDSignalStrengthForm.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Chart/GDTemperatureForm.h",
+			"MU",
+			"XPMO2MVAI4/moc_GDTemperatureForm.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/File/GDCreateNewHoleForm.h",
+			"MU",
+			"LEMNS5I5GR/moc_GDCreateNewHoleForm.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/GDMainForm.h",
+			"MU",
+			"6SO4O2AQDL/moc_GDMainForm.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/GDMainMenuWidget.h",
+			"MU",
+			"6SO4O2AQDL/moc_GDMainMenuWidget.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDDrillingChartWidget.h",
+			"MU",
+			"U436A6CREQ/moc_GDDrillingChartWidget.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDDrillingTableWidget.h",
+			"MU",
+			"U436A6CREQ/moc_GDDrillingTableWidget.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDGammaTLFWidget.h",
+			"MU",
+			"U436A6CREQ/moc_GDGammaTLFWidget.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDProbeWidget.h",
+			"MU",
+			"U436A6CREQ/moc_GDProbeWidget.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDTLFWidget.h",
+			"MU",
+			"U436A6CREQ/moc_GDTLFWidget.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDTopPanelWidget.h",
+			"MU",
+			"U436A6CREQ/moc_GDTopPanelWidget.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Options/GDSettingsForm.h",
+			"MU",
+			"LGPMCWXAHY/moc_GDSettingsForm.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/SurveyData.h",
+			"MU",
+			"6SO4O2AQDL/moc_SurveyData.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Tools/GDDiagnosticsForm.h",
+			"MU",
+			"ML7FLWGMPU/moc_GDDiagnosticsForm.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDPlatform/GDSerialPort.h",
+			"MU",
+			"SB2B7Q5BFB/moc_GDSerialPort.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDPlatform/GDUtils.h",
+			"MU",
+			"SB2B7Q5BFB/moc_GDUtils.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDPlatform/Widget/GDAzimuthWidget.h",
+			"MU",
+			"G6GAN2XEX4/moc_GDAzimuthWidget.cpp",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDPlatform/Widget/GDDigitalClockWidget.h",
+			"MU",
+			"G6GAN2XEX4/moc_GDDigitalClockWidget.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug/GeoDart_Standalone_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug/GeoDart_Standalone_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CHARTS_LIB",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_SERIALPORT_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCharts",
+		"/usr/include/x86_64-linux-gnu/qt5/QtSerialPort",
+		"/usr/include/c++/12",
+		"/usr/include/x86_64-linux-gnu/c++/12",
+		"/usr/include/c++/12/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/12/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/home/eugene/ide/clion-2024.2.2/bin/cmake/linux/x64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug/GeoDart_Standalone_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 14,
+	"PARSE_CACHE_FILE" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/GeoDart_Standalone_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/GeoDart_Standalone_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Chart/GDBatteryChargeForm.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Chart/GDSignalStrengthForm.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Chart/GDTemperatureForm.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/File/GDCreateNewHoleForm.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/GDMainForm.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/GDMainMenuWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDDrillingChartWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDDrillingTableWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDGammaTLFWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDProbeWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDTLFWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Main/GDTopPanelWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Options/GDSettingsForm.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDForms/Tools/GDDiagnosticsForm.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDPlatform/GDSerialPort.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDPlatform/Widget/GDAzimuthWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDPlatform/Widget/GDDigitalClockWidget.cpp",
+			"MU",
+			null
+		],
+		[
+			"/home/eugene/Projects/geodart_standalone/src/GDPlatform/Widget/GDSerialPortConnect.cpp",
+			"MU",
+			null
+		],
+		[ "/home/eugene/Projects/geodart_standalone/src/main.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,5 @@
+/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/GeoDart_Standalone.dir
+/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/GeoDart_Standalone_autogen_timestamp_deps.dir
+/home/eugene/Projects/geodart_standalone/cmake-build-debug/CMakeFiles/GeoDart_Standalone_autogen.dir

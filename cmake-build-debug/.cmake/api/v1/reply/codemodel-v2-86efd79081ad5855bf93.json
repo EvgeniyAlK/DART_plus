@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "GeoDart_Standalone",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "GeoDart_Standalone::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeoDart_Standalone-Debug-2ced16b4d6bc5e4ed0a6.json",
+					"name" : "GeoDart_Standalone",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeoDart_Standalone_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeoDart_Standalone_autogen-Debug-94936f344e7d59fc1f91.json",
+					"name" : "GeoDart_Standalone_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "GeoDart_Standalone_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-GeoDart_Standalone_autogen_timestamp_deps-Debug-cd6d74a054a43f5cb454.json",
+					"name" : "GeoDart_Standalone_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/eugene/Projects/geodart_standalone/cmake-build-debug",
+		"source" : "/home/eugene/Projects/geodart_standalone"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

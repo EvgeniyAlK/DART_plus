@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<RCC>
+    <qresource prefix="/images">
+        <file>DartLogo-4.png</file>
+    </qresource>
+</RCC>
